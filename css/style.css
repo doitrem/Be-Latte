@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+
+
+.Top-navigation-bg {
+  width: 100%;
+	height: 100px;
+  opacity: 0.5;
+  background-color: #000000;
+}
+
+.header {
+ 
+
+/*top:100px;
+right: 100px;*/
+/*  bottom: -100px;*/
+  /*display: flex;
+  align-items: center;
+position: absolute;
+  text-align:  center;*/
+
+}
+
+.nav {
+  position: absolute;
+  top: 10px;
+  left: 555px;
+
+  /*top:100px;
+}
+right: 100px;*/
+/*  bottom: -100px;*/
+  /*display: flex;
+  align-items: center;
+position: absolute;
+  text-align:  center;*/
+}
+
+.Home-About-us {
+  width: 128px;
+  height: 14px;
+  font-family: PlayfairDisplay;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.75;
+  text-align: center;
+  color: #ffffff;
+  display: inline;
+}
+
+.Menu-Blog-Contact {
+  width: 171px;
+  height: 16px;
+  font-family: PlayfairDisplay;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1.75;
+  text-align: center;
+  color: #ffffff;
+  display: inline;
+}
+
+
+.Be-latte---logo {
+  width: 154px;
+  height: 127px;
+  /*object-fit: contain;*/
+  display: inline;
+  /*background-color: #f5d76e;*/
+}
+
+.coffee-shop {
+  width: 100%;
+  margin-top:-100px;
+/*  position: absolute;*/
+  /*top: 10px;
+  left: 300px;*/
+
+  
+}
+
+.Welcome-to-Be-Latte {
+  width: 444px;
+  height: 39px;
+  font-family: PlayfairDisplay;
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 0.58;
+  text-align: center;
+  color: #f5d76e;
+  position: absolute;
+  top: 301px;
+  left: 160px;
+
+}
+
+.Enjoy-of-a-fresh-new-approach-to-coffee-Proin-gravida-nibh-vel {
+  width: 436px;
+  height: 39px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: left;
+  color: #ffffff;
+  position: absolute;
+  top: 379px;
+  left: 169px;
+}
+
+.Btn-bg {
+  width: 185px;
+  height: 54px;
+  /*background-color: #39312f;*/
+  border: solid 2px #ffffff;
+  position: absolute;
+  top: 480px;
+  left: 169px;
+}
+
+.See-menu {
+  width: 66px;
+  height: 10px;
+  font-family: Lato;
+  font-size: 13px;
+  font-weight: 900;
+  line-height: 1.85;
+  letter-spacing: 0.3px;
+  text-align: center;
+  color: #ffffff;
+  position: relative;
+  margin-left: 60px;
+  text-transform: uppercase
+}
+
+.Coffee-never-tasted-so-good {
+  /*width: 100;*/
+  /*height: 93px;*/
+  font-family: PlayfairDisplay;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 0.75;
+  letter-spacing: 0.8px;
+  text-align: center;
+  color: #2f2f2f;
+  margin-top: 50px;
+}
+
+.so-good {
+  text-decoration: underline;
+}
+
+.Morbi-accumsan-ipsum-velit-Nam-nec-tellus-a-odio-tincidunt-auc {
+  width: 755px;
+  /*height: 61px;*/
+  font-family: Lato;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: center;
+  color: #28211f;
+  color: var(--black);
+  margin-left: 330px;
+}
+
+
+
+

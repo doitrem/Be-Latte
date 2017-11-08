@@ -164,6 +164,109 @@ position: absolute;
   margin-left: 330px;
 }
 
+.icon-coffee {
+  width: 100%;
+  height: 39px;
+  object-fit: contain;
+ /* background-color: #ececec;*/
+  margin-top: 20px;
+}
 
+.menu {
+  width: 100%;
+  height: 24px;
+  margin-top: 40px;
+  font-family: PlayfairDisplay;
+  font-size: 32px;
+  font-weight: bold;
+  line-height: 0.75;
+  text-align: center;
+  color: #2f2f2f;
+  text-transform: uppercase
+}
 
+.coffe-tea-desserts {
+  
+  padding-left: 90px;
+}
 
+.cup-coffee {
+  width: 395.9px;
+  height: 293.9px;
+  object-fit: contain;
+  /*display: inline;*/
+  float: left;
+}
+
+.coffee {
+  /*width: 155px;
+  height: 30px;*/
+  font-family: PlayfairDisplay;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 0.6;
+  text-align: center;
+  color: #000000;
+  /*position: absolute;*/
+  margin-left: -250px;
+  margin-top: 130px;
+ /* margin-bottom: -150px;*/  
+ /*display: inline;*/
+ float: left;
+}
+
+.tea-realisticshots {
+  width: 397.2px;
+  height: 295px;
+  object-fit: contain;
+  /*display: inline;*/
+  float: left;
+  padding-left: 20px;
+}
+
+.tea {
+  width: 78px;
+  height: 29px;
+  font-family: PlayfairDisplay;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 0.6;
+  text-align: left;
+  color: #000000;
+  /*display: inline;*/
+  float: left;
+  margin-left: -220px;
+  margin-top: 130px;
+}
+
+.dessert {
+   width: 395.9px;
+  height: 293.9px;
+  object-fit: contain;
+  /*display: inline;*/
+  float: left;
+  padding-left: 20px;
+
+}
+
+.desserts {
+  width: 204px;
+  height: 30px;
+  font-family: PlayfairDisplay;
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 0.6;
+  text-align: left;
+  color: #000000;
+  /*display: inline;*/
+  float: left;
+  margin-left: -250px;
+  margin-top: 130px;
+}
+
+.table {
+  width: 100%;
+  text-align: left;
+}
+
+display: inline;

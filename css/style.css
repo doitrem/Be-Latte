@@ -212,7 +212,7 @@ position: absolute;
   margin-top: 130px;
  /* margin-bottom: -150px;*/  
  /*display: inline;*/
- float: left;
+  float: left;
 }
 
 .tea-realisticshots {
@@ -286,8 +286,9 @@ table {
 }
 
 li {
-    list-style-type: none; /* Убираем маркеры */
-   }
+  list-style-type: none; /* Убираем маркеры */
+   
+}
 
 
 
@@ -409,7 +410,7 @@ a:active {
   /*width: 351px;
   height: 38px;*/
   font-family: Lato;
-    padding-left: 40px;
+  padding-left: 40px;
   font-size: 16px;
   font-weight: 600;
   line-height: 1.5;
@@ -420,4 +421,10 @@ a:active {
 
 .map-time {
   display: inline;
+}
+
+.footer-bg {
+  width: 1300px;
+  height: 308px;
+  background-color: #39312f;
 }

@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+
+.feature-products {
+/*  width: 420px;
+  height: 32px;*/
+  opacity: 0.8;
+  font-family: Open Sans, sans-serif;
+  font-size: 42px;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.8);
+  text-transform: uppercase;
+}
+
+.Lorem-ipsum-dolor-sit-amet-consectetur-adipis-cing-elitsed-do {
+  width: 504px;
+  /*height: 45px;*/
+  opacity: 0.7;
+  font-family: Open Sans, sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.7);
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 34px;
+}
+
+.Rectangle-4-copy {
+  width: 132px;
+  height: 3px;
+  background-color: #ff2d2d;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 29px;
+}
+
+.category {
+  font-family: Open Sans, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 1.09;
+  letter-spacing: 0.2px;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.7);
+
+}
+
+/*#all-print-wev-user-mock li {
+	list-style: none;
+	float: left;
+	padding: 20px;
+}*/
+
+#all-print-wev-user-mock ul {
+    text-align: center;  
+}
+
+#all-print-wev-user-mock li {
+    display: inline-block; 
+    padding: 20px;   
+}
+
+
+
+
+#all-print-wev-user-mock li a {
+    color: rgba(0, 0, 0, 0.7); /* Цвет обычной ссылки */ 
+    text-decoration: none; /* Убираем подчеркивание у ссылок */
+}
+
+#all-print-wev-user-mock li a:hover {
+	color: red;
+}
+
+
+.active {
+	color: red;
+}
+/*
+#all-print-wev-user-mock li a:focus {
+	color: orange;
+}*/
+
+
+/*#all-print-wev-user-mock li:active {
+	color: rgba(0, 0, 0, 0.7);
+}*/
+
+.layers {
+	/*margin-left: auto;
+    margin-right: auto;
+    width: 100%;*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.layer-1, .layer-2, .layer-3, .layer-4, .layer-5, .layer-6, .layer-7, .layer-8 {
+  	/*position: relative;*/
+    
+  	width: 267.7px;
+  	height: 260.2px;
+	border: 1px solid black;
+	float: left;
+	margin: 10px;
+	background-color: rgb(243,245,215);
+
+}

@@ -1,5 +1,5 @@
 # Be-Latte
-01
+test pass
 Учебный проект "Be Latte"
 
 О проекте

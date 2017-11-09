@@ -1,5 +1,5 @@
 # Be-Latte
-test pass
+test pass15minutes
 Учебный проект "Be Latte"
 
 О проекте

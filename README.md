@@ -1,5 +1,5 @@
 # Be-Latte
-test
+test2
 Учебный проект "Be Latte"
 
 О проекте
